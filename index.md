@@ -50,7 +50,7 @@ We love hearing from our users! If you have suggestions for new features or impr
 
 ## Privacy
 
-TCF Listening Practice respects your privacy. We do not collect any personal data or track user activity. All app data remains on your device. Read our full [[Privacy Policy](privacy-policy.md)](https://lecfy.github.io/tcf/privacy-policy) for more details.
+TCF Listening Practice respects your privacy. We do not collect any personal data or track user activity. All app data remains on your device. Read our full https://lecfy.github.io/tcf/privacy-policy for more details.
 
 ---
 
