@@ -30,7 +30,7 @@ The app may store data locally on your device, including:
 This data remains on your device and is never transmitted to us or any third
 parties.
 
-## Subscriptions
+## Subscriptions (iOS version only)
 
 Premium subscriptions are managed entirely by Apple's App Store. We do not
 collect or store any subscription or billing information. All payment processing
